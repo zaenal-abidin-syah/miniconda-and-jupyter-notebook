@@ -3,6 +3,7 @@
  
 Step 1: Instalasi Miniconda
 ### **Windows user**
+
     - Klik link ini untuk download: [Miniconda Windows 64-bit](https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe)
 
 - Install miniconda
