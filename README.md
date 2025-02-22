@@ -46,7 +46,8 @@ Step 1: Instalasi Miniconda
 - Kita akan install 2 hal di base environment
     
     ```
-    conda activate or
+    conda activate
+    OR
     conda activate base
 
     conda install -n base -c conda-forge jupyter nb_conda_kernels "notebook<6.0" 
