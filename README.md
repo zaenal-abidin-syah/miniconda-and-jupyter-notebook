@@ -41,6 +41,8 @@ Step 1: Instalasi Miniconda
     - Tunggu hingga instalasi selesai
     
 - hanya untuk memastikan, tutup dan buka terminal lagi
+### Other
+- bisa juga memilih sesuai OS dan versi [repo Miniconda](https://repo.anaconda.com/miniconda/)
 
 ## Step 3: Instalasi Jupyter 
 - Kita akan install 2 hal di base environment
