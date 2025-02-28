@@ -2,11 +2,11 @@ name: myenv
 
 channels:
 - conda-forge
-- anaconda 
+- anaconda
 
 dependencies:
 # Essential
 - python=3.10
-- nb_conda_kernels==2.3.1
-- pip==22.2.1
-- ipython==8.4.0
+- nb_conda_kernels
+- pip
+- ipython
