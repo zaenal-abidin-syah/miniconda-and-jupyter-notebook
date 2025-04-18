@@ -58,10 +58,15 @@ Step 1: Instalasi Miniconda
     OR
     conda activate base
     ```
+  - lakukan penginstalan jupyter notebook di environment base saja agar jupyter dapat mengakses atau berpindah ke environment lain perlu menginstall library ipykernel di environment lain agar dikenali jupyter (recommended)
     ```
     conda install -n base -c conda-forge jupyter nb_conda_kernels notebook
     OR
     conda install -n base -c conda-forge jupyter nb_conda_kernels "notebook<7.0" 
+    ```
+  - install ipykernel di environment lain
+    ```
+    conda install -n myenv -c conda-forge ipykernel
     ```
 
 ## Step 4: Instalasi Environment
