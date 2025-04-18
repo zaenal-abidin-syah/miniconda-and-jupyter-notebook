@@ -9,6 +9,5 @@ dependencies:
 - python=3.10
 # agar jupyter notebook yang diinstall di base dapat mengakses environment lain (install ipykernel)
 - ipykernels
-- nb_conda_kernels
 - pip
 - ipython
