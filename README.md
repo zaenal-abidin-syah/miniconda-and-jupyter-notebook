@@ -39,6 +39,12 @@ Step 1: Instalasi Miniconda
         ```
     - Ketik `yes` untuk agree dengan license nya, kemudian `yes` lagi untuk `prepend miniconda install location to PATH`
     - Tunggu hingga instalasi selesai
+    - perintah untuk disable autoactive conda ketika terminal terbuka
+      
+      ```bash
+      conda config --set auto_activate_base false
+      ```
+      
     
 - hanya untuk memastikan, tutup dan buka terminal lagi
 ### Other
